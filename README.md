@@ -34,3 +34,13 @@ AI methodologies
 Data science
 machine learning
 Deep learning
+
+
+Machine learning Life cycle 
+1.Prepare data
+2.Train model
+3.Package Model
+4.Validate Model
+5.Deploy Model
+6.Monitor Model
+
